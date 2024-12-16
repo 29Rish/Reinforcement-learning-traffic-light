@@ -57,7 +57,6 @@ This project was replicated and documented by:
 
 - **Rishita Yadav**  
   Columbia University, New York, NY, USA  
-  [LinkedIn](https://www.linkedin.com) (Add link if applicable)  
 
 For questions or additional information, please open an issue on the repository's issues page.
 
@@ -69,4 +68,4 @@ For questions or additional information, please open an issue on the repository'
 - Analytics Vidhya
 - Towards Data Science (Medium)
 - Andrea Vidali - University of Milano-Bicocca
-- "Deep Reinforcement Learning for Traffic
+- "Deep Reinforcement Learning for Traffic Light Control in Intelligent Transportation Systems" - Xiao-Yang Liu, Ming Zhu, Sem Borst, Anwar Walid
